@@ -9,7 +9,7 @@ function Login() {
       <input type="text" id="clname" />
       <input type="text" placeholder="Username" />
       <input type="password" placeholder="Password" />
-      <a href="https://website.com">Forgot your password?</a>
+      <a href="#">Forgot your password?</a>
       <button type="submit">LOGIN</button>
     </form>
   </div>
